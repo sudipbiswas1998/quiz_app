@@ -2,7 +2,7 @@
 
 I  am  on  my learning stage. And this is my first app  so dont judge  me...  :)
 
-###### What I learned from the project
+###### What I learnt from the project
 * Dart basics
 * Flutter basics
 * Building a widget tree
