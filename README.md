@@ -15,3 +15,5 @@ I  am  on  my learning stage. And this is my first app  so dont judge  me...  :)
 
 ![Screenshot](./images/screenshot.png=100x20)
 ![Screenshot](./images/screenshot1.png)
+![Screenshot](./images/screenshot1.png | width=100)
+![Screenshot](./images/screenshot.png)
