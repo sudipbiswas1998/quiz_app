@@ -13,5 +13,5 @@ I  am  on  my learning stage. And this is my first app  so dont judge  me...  :)
 * Splitting into Widget
 * Map in Dart
 
-![Screenshot](./images/screenshot1.png= 250*400)
+![Screenshot](./images/screenshot1.png =250*400)
 ![Screenshot](./images/screenshot.png)
